@@ -11,7 +11,7 @@ public class EstudianteControlador {
 
     @GetMapping
     public String getEstudiante(){
-        return "Hola estudiantes";
+        return "Hola a todos";
     }
 
     @PostMapping
